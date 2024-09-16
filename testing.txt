@@ -1,0 +1,2 @@
+>>> leaks con valgrind
+    valgrind --leak-check=yes ./push_swap 1 34 44 "hola mundo" 3 adios 5666
